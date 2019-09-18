@@ -1,33 +1,21 @@
-.App {
+.img{
+  background-image: url(https://media.giphy.com/media/5xtDarmhcyiIgmzWTXW/giphy.gif);
+  text-decoration: blue;
+  margin: 2px;
+  background-repeat:fixed;
+  height:55%;
+  width:100%;
+  text-decoration-style: solid;
   text-align: center;
+  color:whitesmoke;
+  alt:Responsive image;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+form{
+background-color: red; 
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.footer{
+  background-image: url(https://media3.giphy.com/media/4ZP2Otq5tQbSM/giphy.gif?cid=790b7611ed3ed2ea61a5aa9ebdf05c6503e1af2d219b2817&rid=giphy.gif&cid=790b7611143b9f06772cbb49b5dd9188aab13d5ebdc9640c&rid=giphy.gif&cid=790b76118d419d80303ac94e57316ad20f66efdf4634c9b9&rid=giphy.gif&cid=790b76112bbc02db001ca34d4c5a35d4a905f19ccc822750&rid=giphy.gif&cid=790b7611a1d1565fc06851eeba5fbce52e9a929da39f3bd0&rid=giphy.gif);
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+h2{
+  background-color: bisque;
+} 
