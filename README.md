@@ -66,12 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 
-
+>
 
 
 
 
 ,..........................................
+<h1>
 
 import * as React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
@@ -111,6 +112,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
 });
-
+</h1>
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
